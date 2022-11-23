@@ -1,6 +1,5 @@
 
-![Main]([https://media.giphy.com/media/wKoPDy4mp8Lr6IJ9ce/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F807059195702476507%2F&psig=AOvVaw2fUsiCsrExBGxsfqRk4Iem&ust=1669317151449000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPi15JCBxfsCFQAAAAAdAAAAABAS))
-
+![Main](https://media.giphy.com/media/wKoPDy4mp8Lr6IJ9ce/giphy.gif)
 
 # Falcon9_DS
 
