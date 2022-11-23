@@ -1,9 +1,9 @@
 
-#  !Falcon9_DS!
+# -Falcon9_DS
 
 This is one of my end-to-end Data Science projects that completed as a part of my IBM Data Science Professional Certificate. This particular repository includes my own take on every problem, and my own approach towards solving any issue. Most importantly, I have included magnitudes of different analytical approach to look at the task from a different point of view, unlike the directed procedures in the course. I have achieved a staggering accuracy with the classifier model that can predict if the Falcon9 rocket will land succesfully or not. As far as I'm concern, this is probably one of the models with maximum possible accuracy. 
 
-## <span style="color: red;"> Project Overview </font>
+## +Project Overview
 
 In this project, we will predict if the Falcon 9 first stage will land successfully. SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch.
 
@@ -13,17 +13,17 @@ This capstone project course will give you a taste of what data scientists go th
 
 SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if you can accurately predict the likelihood of the first stage rocket landing successfully, you can determine the cost of a launch. With the help of your Data Science findings and models, the competing startup you have been hired by can make more informed bids against SpaceX for a rocket launch.
 
-## <font color="blue"> Objective </font>
+##  Objective 
 
    * Apply data science toolkit and machine learning in order to accurately predict the likelihood of the first stage rocket landing successfully, and thus determine the cost of a launch.
    * Explore the data in order to obtain more insight from the data.
 
-## <font color="blue"> Deliverables </font>
+##  Deliverables 
   
   * Accurate predictive algorithms
   * Business case report to stakeholders
   
-## <font color="blue"> Tools </font>
+##  Tools 
   * Numpy
   * Pandas
   * Matplotlib
@@ -31,14 +31,14 @@ SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 mil
   * Folium
   * Plotly, Dash
   
-##  <font color="blue"> Algorithms </font>
+##  Algorithms
   * KNN
   * SVM
   * Decision Tree
   * Logistic Regression
   * Gridsearch
   
-## <font color="blue"> Accuracy Metrics </font>
+##  Accuracy Metrics 
   * Precision & Recall
   * f1_score
   
