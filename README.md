@@ -1,10 +1,12 @@
 
-# 
--Falcon9_DS
+![Main]([https://media.giphy.com/media/wKoPDy4mp8Lr6IJ9ce/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F807059195702476507%2F&psig=AOvVaw2fUsiCsrExBGxsfqRk4Iem&ust=1669317151449000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPi15JCBxfsCFQAAAAAdAAAAABAS))
+
+
+# Falcon9_DS
 
 This is one of my end-to-end Data Science projects that completed as a part of my IBM Data Science Professional Certificate. This particular repository includes my own take on every problem, and my own approach towards solving any issue. Most importantly, I have included magnitudes of different analytical approach to look at the task from a different point of view, unlike the directed procedures in the course. I have achieved a staggering accuracy with the classifier model that can predict if the Falcon9 rocket will land succesfully or not. As far as I'm concern, this is probably one of the models with maximum possible accuracy. 
 
-## +Project Overview
+## Project Overview
 
 In this project, we will predict if the Falcon 9 first stage will land successfully. SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch.
 
